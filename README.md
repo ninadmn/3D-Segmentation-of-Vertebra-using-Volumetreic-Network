@@ -1,7 +1,3 @@
-# 3D-Instance-segmentation-of-Vertebra-using-Mask-RCNN
-Thesis project on 3D instance segmentation of vertebra using Mask RCNN
-
-
 # 3D Segmentation of Vertebra using Volumetric Network
 > This is an example of the CT images of vertebra segmentation from spineweb
 
